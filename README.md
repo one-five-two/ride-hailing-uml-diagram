@@ -38,7 +38,7 @@ This system represents a Ride-Hailing Application designed to connect passengers
 ## Diagram
 The UML Use Case Diagram for the Ride-Hailing Application is provided below:
 
-![Ride-Hailing Application Use Case Diagram](diagram/ride%20hailing%20use%20case.png)
+![Ride-Hailing Application Use Case Diagram] diagram/ride%20hailing%20use%20case.png)
 
 
 ## Repository Structure
